@@ -11,6 +11,7 @@ export type Module = {
   updated_at: string;
 };
 
+
 export type Lesson = {
   id: number;
   module_id: number;
